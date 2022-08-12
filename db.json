@@ -1,0 +1,219 @@
+{
+  "courses": [
+    {
+      "title": "Native Cuisines",
+      "id": "Amala and ewedu",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "items": [
+        "https://res.cloudinary.com/majuro-devs/image/upload/v1657972571/samples/food/pot-mussels.jpg",
+        "https://res.cloudinary.com/majuro-devs/image/upload/v1657972571/samples/food/pot-mussels.jpg",
+        "https://res.cloudinary.com/majuro-devs/image/upload/v1657972570/samples/food/dessert.jpg",
+        "https://res.cloudinary.com/majuro-devs/image/upload/v1657972571/samples/food/pot-mussels.jpg",
+        "https://res.cloudinary.com/majuro-devs/image/upload/v1657972570/samples/food/dessert.jpg"
+      ],
+      "prices": [
+        {
+          "choice": "A plate of eba",
+          "amount": "#1500",
+          "id": 1
+        },
+        {
+          "choice": "A plate of amala",
+          "amount": "#2500",
+          "id": 2
+        },
+        {
+          "choice": "a plate of semo",
+          "amount": "#2700",
+          "id": "3"
+        },
+        {
+          "choice": "a plate of fufu",
+          "amount": "#2000",
+          "id": "4"
+        },
+        {
+          "choice": "a plate of pounded",
+          "amount": "#4000",
+          "id": "5"
+        }
+      ]
+    },
+    {
+      "title": "English Full Course ",
+      "id": "Fried rice and chicken",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "items": [
+        "https://res.cloudinary.com/majuro-devs/image/upload/v1657972570/samples/food/dessert.jpg",
+        "https://res.cloudinary.com/majuro-devs/image/upload/v1657972570/samples/food/dessert.jpg"
+      ],
+      "prices": [
+        {
+          "choice": "a plate of Fried rice",
+          "amount": "#2000",
+          "id": "1"
+        },
+        {
+          "choice": "a plate of Jollof rice",
+          "amount": "#1200",
+          "id": "2"
+        },
+        {
+          "choice": "a plate of Coconut rice",
+          "amount": "#2700",
+          "id": "3"
+        },
+        {
+          "choice": "a plate of white rice",
+          "amount": "#1000",
+          "id": "4"
+        }
+      ]
+    },
+    {
+      "title": "Desserts and Snacks",
+      "id": "Meat pie And Sausage",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "items": [
+        "https://res.cloudinary.com/majuro-devs/image/upload/v1657972571/samples/food/pot-mussels.jpg",
+        "https://res.cloudinary.com/majuro-devs/image/upload/v1657972571/samples/food/pot-mussels.jpg"
+      ],
+      "prices": [
+        {
+          "choice": "A package of meatpie",
+          "amount": "#2000",
+          "id": "1"
+        },
+        {
+          "choice": "A cup of chocolate ice-cream",
+          "amount": "#1500",
+          "id": "2"
+        },
+        {
+          "choice": "A package of french fries",
+          "amount": "#3000",
+          "id": "3"
+        },
+        {
+          "choice": "A package of burger",
+          "amount": "#4000",
+          "id": "4"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "username": "Omosehin olanrewaju",
+      "id": "1",
+      "email": "olanrewaju@gmail.com",
+      "password": "123456",
+      "confirm password": "123456"
+    },
+    {
+      "username": "",
+      "email": "olanrewaju@gmail.com",
+      "password": "1234567",
+      "confirmPassword": "1234567",
+      "id": "EVEqwPA"
+    },
+    {
+      "username": "",
+      "email": "olanrewaju@gmail.com",
+      "password": "1234567",
+      "confirmPassword": "1234567",
+      "id": "o1cxTwm"
+    },
+    {
+      "username": "olanrewaju",
+      "email": "majuro@gmail.com",
+      "password": "lordmale",
+      "confirmPassword": "lordmale",
+      "id": "4lNElXO"
+    },
+    {
+      "username": "walahi",
+      "email": "walahi@gmail.com",
+      "password": "wertyu",
+      "confirmPassword": "wertyu",
+      "id": "PXn_ufS"
+    },
+    {
+      "username": "kunle",
+      "email": "kunleolafusi@gmail.com",
+      "password": "theproffessor",
+      "confirmPassword": "theproffessor",
+      "id": "j2eqvhG"
+    },
+    {
+      "username": "emilokan",
+      "email": "emilokan@gmail.com",
+      "password": "olatred",
+      "confirmPassword": "olatred",
+      "id": "Adk_mkX"
+    },
+    {
+      "username": "emilokan",
+      "email": "emilokan@gmail.com",
+      "password": "olatred",
+      "confirmPassword": "olatred",
+      "id": "rlDvQV6"
+    },
+    {
+      "username": "ihuiwueiuwgvbubd",
+      "email": "jfbbugasu@gmail.com",
+      "password": "olanty",
+      "confirmPassword": "olanty",
+      "id": "Cwuy6Cp"
+    },
+    {
+      "username": "matthew",
+      "email": "matthew@gmail.com",
+      "password": "mathhew123",
+      "confirmPassword": "mathew123",
+      "id": "-FxsRu0"
+    },
+    {
+      "username": "matthew",
+      "email": "matthew@gmail.com",
+      "password": "mathhew123",
+      "confirmPassword": "mathew123",
+      "id": "Ve15A1w"
+    },
+    {
+      "username": "amanda",
+      "email": "amanda@gmail.com",
+      "password": "amanda123",
+      "confirmPassword": "amanda123",
+      "id": "mcvYK-X"
+    },
+    {
+      "username": "olanrewaju",
+      "email": "emmanuel@mail.com",
+      "password": "asdfgh",
+      "confirmPassword": "asdfgh",
+      "id": "7Pg-vRD"
+    },
+    {
+      "username": "mathias",
+      "email": "mathias@gmail.com",
+      "password": "powerpaster",
+      "confirmPassword": "powerpaster",
+      "id": "UtbbE1c"
+    },
+    {
+      "username": "mathias",
+      "email": "mathias@gmail.com",
+      "password": "powerpaster",
+      "confirmPassword": "powerpaster",
+      "id": "lgotdQ4"
+    },
+    {
+      "username": "williams",
+      "email": "williamshakespeare@gmail.com",
+      "password": "12345678",
+      "confirmPassword": "12345678",
+      "id": "jLvvq_g"
+    }
+  ]
+}
